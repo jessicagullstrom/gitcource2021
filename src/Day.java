@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public enum Day {
+public enum Day {
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY,
+    THURSDAY,
+    FRIDAY
 }
